@@ -1,0 +1,8 @@
+altair
+black
+ipykernel
+ipywidgets
+pycaret
+ppscore
+requests
+ydata-profiling
